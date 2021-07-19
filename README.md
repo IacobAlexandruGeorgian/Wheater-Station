@@ -12,7 +12,7 @@
   
   - Fizic
   
-  ![image](https://user-images.githubusercontent.com/84518155/126185951-3e5350fa-ed01-4c39-a5a7-a13930a4c69b.png)
+    ![image](https://user-images.githubusercontent.com/84518155/126185951-3e5350fa-ed01-4c39-a5a7-a13930a4c69b.png)
 
 
 
