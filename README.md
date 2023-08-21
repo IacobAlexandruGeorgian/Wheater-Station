@@ -10,7 +10,7 @@
   - Base station (Consola)
   ![image](https://user-images.githubusercontent.com/84518155/119233192-77f06680-bb30-11eb-9cd1-5c530c79a4a4.png)
   
-  - The stations
+  - The stations (microcontrollers)
   
     ![image](https://user-images.githubusercontent.com/84518155/126185951-3e5350fa-ed01-4c39-a5a7-a13930a4c69b.png)
 
